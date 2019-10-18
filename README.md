@@ -1,1 +1,1 @@
-# clover-cross-sell-lp
+# Simple React, Webpack, Babel Starter 
